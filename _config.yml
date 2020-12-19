@@ -7,11 +7,14 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+category_dir: category/
+tag_dir: tag/
+
 # About/contact
 author:
   name:              Subwayway
   url:               https://github.com/Subwayway
-  email:             
+  email:
 
 # Gems
 plugins:
