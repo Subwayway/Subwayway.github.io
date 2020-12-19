@@ -4,7 +4,6 @@ title: 월페이퍼 엔진 스크립트(Button, fade in/out)
 date: 2020-12-19 01:40:00 +0900
 category: WallpaperEngine
 ---
-# 월페이퍼 엔진 스크립트(Button, fade in/out)
 각종 보드의 핀맵이나 정의들을 항상 찾기 번거로워 배경화면에서 바로 이용할 수 있는 방안을 고민해서 만들어 보았다.
 <p align="center"><img src="https://user-images.githubusercontent.com/48232366/102642342-ddff4900-41a0-11eb-964c-1e9017dba8e8.gif"></p>
 
