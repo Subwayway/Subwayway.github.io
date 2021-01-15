@@ -2,7 +2,7 @@
 title:               Subwayway
 tagline:             'Embedded DEV'
 description:         'Subwayway'
-url:                 https://subwayway.github.io/
+url:                 https://subwayway.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
